@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:MathewShop"
         mc:Ignorable="d"
         Icon="/Photos/logo.png"
-        Title="MainWindow" MinHeight="1080" MinWidth="1920" MaxHeight="1080" MaxWidth="1920">
+        Title="Matthew" MinHeight="1080" MinWidth="1920" MaxHeight="1080" MaxWidth="1920">
 
     <Grid>
         <Frame x:Name="MainFrame"/>
